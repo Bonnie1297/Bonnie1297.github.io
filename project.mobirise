@@ -178,7 +178,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-4\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">ARBITRAGE LEADS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">DROPSHIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">WHOLESALE LEADS</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRIVATE LABEL&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">Product Research</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">China Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">Listing &amp; PPC&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Zero to $30k Fast</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://calendly.com/bfhfsf/15min\">FREE CALL</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-4\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">ARBITRAGE LEADS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">DROPSHIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">WHOLESALE LEADS</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRIVATE LABEL&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">Product Research</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">China Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">Listing &amp; PPC&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Zero to $30k Fast</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://calendly.com/bfhfsf/15min\">FREE CALL</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -323,7 +323,7 @@
           },
           "title": "AMAZON DROPSHIP",
           "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "_tags": [
             "Theme"
           ],
@@ -361,7 +361,7 @@
           },
           "title": "AMAZON WHOLESALE&nbsp;",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "_tags": [
             "Theme"
           ],
@@ -399,7 +399,7 @@
           },
           "title": "AMAZON PRIVATE LABEL",
           "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "_tags": [
             "Theme"
           ],
@@ -436,7 +436,7 @@
           },
           "text1": "<strong>Address</strong><br><strong><br></strong><br><br>",
           "text2": "<strong>Contacts</strong><br><br>",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://mobirise.com/\">Amazon Arbitrage Leads</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Private Label</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Zero to $30k Fast</a>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://amazon.com\">Amazon Arbitrage Leads</a><br>\n<a class=\"text-primary\" href=\"https://amazon.com\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://amazon.com\">Private Label</a><br><a class=\"text-primary\" href=\"https://amazon.com\">Zero to $30k Fast</a>",
           "_tags": [
             "Theme"
           ],
