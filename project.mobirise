@@ -182,11 +182,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/da-logo-burned-94x128.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-favicon.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Dig-Ability Amazon FBA Consultant",
               "link": "http://www.dig-ability.com/",
-              "title": ""
+              "title": "Dig-Ability Amazon FBA Consultant"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -425,7 +425,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/da-logo-burned-94x128.png",
+              "src": "@PROJECT_PATH@/assets/images/da%20logo_burned-94x128.png",
               "width": 128,
               "link": "",
               "alt": "",
