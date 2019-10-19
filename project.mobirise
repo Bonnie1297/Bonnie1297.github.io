@@ -219,15 +219,18 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "",
+              "rawUrl": "",
+              "width": 1280,
+              "height": 720
             },
             "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlayColor": "#90a878",
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
