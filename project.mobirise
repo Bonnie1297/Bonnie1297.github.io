@@ -223,8 +223,8 @@
             "bgColor": "#F2F2F2",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "",
-              "rawUrl": "",
+              "url": "https://www.youtube.com/embed/Bey4XXJAqS8?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=Bey4XXJAqS8",
               "width": 1280,
               "height": 720
             },
