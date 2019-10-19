@@ -459,12 +459,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/da-logo-burned-94x128.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-favicon.png",
               "width": 128,
               "link": "index.html",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false,
               "active": true
             },
             "iconFont": {
