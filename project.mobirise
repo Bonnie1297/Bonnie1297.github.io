@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.10.7"
   },
   "pages": {
@@ -75,7 +75,7 @@
           },
           "title": "DIG-ABILITY",
           "text": "BUILD THE DIGITAL ABILITY TO START OR SCALE AMAZON FBA BUSINESS",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box8-7\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/15min?month=2019-10\" data-toolbar=\"-mbrBtnMove\">SCHEEUDLE FREE CALL</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box8-7\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">SCHEEUDLE FREE CALL</a>",
           "_tags": [
             "Theme"
           ],
@@ -178,15 +178,16 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-4\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">ARBITRAGE LEADS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">DROPSHIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">WHOLESALE LEADS</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRIVATE LABEL&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">Product Research</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">China Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">Listing &amp; PPC&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Zero to $30k Fast</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://calendly.com/bfhfsf/15min\">FREE CALL</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-4\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">ARBITRAGE LEADS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">DROPSHIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">WHOLESALE LEADS</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRIVATE LABEL&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">Product Research</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">China Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://amazon.com\">Listing &amp; PPC&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Zero to $30k Fast</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://calendly.com/bfhfsf/15min\">FREE CALL</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/mbr-favicon.png",
               "height": 128,
               "alt": "Dig-Ability Amazon FBA Consultant",
-              "link": "http://www.dig-ability.com/",
-              "title": "Dig-Ability Amazon FBA Consultant"
+              "link": "index.html",
+              "title": "Dig-Ability Amazon FBA Consultant",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -289,7 +290,7 @@
           },
           "title": "AMAZON ARBITRAGE&nbsp;",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
           "_tags": [
             "Theme"
           ],
@@ -327,7 +328,7 @@
           },
           "title": "AMAZON DROPSHIP",
           "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
           "_tags": [
             "Theme"
           ],
@@ -365,7 +366,7 @@
           },
           "title": "AMAZON WHOLESALE&nbsp;",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
           "_tags": [
             "Theme"
           ],
@@ -403,7 +404,7 @@
           },
           "title": "AMAZON PRIVATE LABEL",
           "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
           "_tags": [
             "Theme"
           ],
@@ -425,11 +426,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/da%20logo_burned-94x128.png",
+              "src": "@PROJECT_PATH@/assets/images/da-logo-burned-94x128.png",
               "width": 128,
-              "link": "",
+              "link": "index.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -438,13 +441,12 @@
               "family": "MobiriseIcons",
               "link": "index.html",
               "size": 0,
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
-          "text1": "<strong>Address</strong><br><strong><br></strong><br><br>",
-          "text2": "<strong>Contacts</strong><br><br>",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://amazon.com\">Amazon Arbitrage Leads</a><br>\n<a class=\"text-primary\" href=\"https://amazon.com\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://amazon.com\">Private Label</a><br><a class=\"text-primary\" href=\"https://amazon.com\">Zero to $30k Fast</a>",
+          "text1": "<strong>Address</strong><br><strong><br></strong>New Port Beach , CA<br><br>",
+          "text2": "<strong>Contacts</strong><br>help@dig-ability",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Amazon Arbitrage Leads</a><br>\n<a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
           "_tags": [
             "Theme"
           ],
