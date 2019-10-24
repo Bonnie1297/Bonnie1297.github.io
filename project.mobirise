@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-05_1419",
-    "currentPage": "index.html",
+    "currentPage": "Amazon-FBA-Course-Reality.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -551,7 +551,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -570,7 +570,7 @@
             }
           },
           "title": "IS AMZON FBA COURSE WORTH YOUR TIME &amp; MONEY?",
-          "text": "Explore with Kevin Jackson from Dig-Ability the ground reality of these course &amp; the difference between practical experience.&nbsp;",
+          "text": "Explore with Kevin Jackson from Dig-Ability, the ground reality of these course &amp; get to know the power of practical experience.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">FREE CALL</a>",
           "_tags": [
             "Theme"
