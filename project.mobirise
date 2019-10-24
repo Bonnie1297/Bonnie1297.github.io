@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-05_1419",
-    "currentPage": "index.html",
+    "currentPage": "Amazon-FBA-Course-Reality.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 23,
+    "uniqCompNum": 31,
     "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": "",
@@ -508,6 +508,294 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-j"
+        }
+      ]
+    },
+    "Amazon-FBA-Course-Reality.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Amazon FBA Course",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpeg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "IS AMZON FBA COURSE WORTH YOUR TIME &amp; MONEY?",
+          "text": "Explore with Kevin Jackson from Dig-Ability the ground reality of these course &amp; the difference between practical experience.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">FREE CALL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ZERO to $30K FAST",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">FREE CALL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-t"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "DIG-ABILITY",
+          "text": "BUILD THE DIGITAL ABILITY TO START OR SCALE AMAZON FBA BUSINESS",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">SCHEEUDLE FREE CALL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-u"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#222222"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#333333!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3b3b3b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#3b3b3b",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-4\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">ARBITRAGE LEADS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">DROPSHIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">WHOLESALE LEADS</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRIVATE LABEL&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Product Research</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">China Sourcing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Listing &amp; PPC&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Zero to $30k Fast</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">FREE CALL</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-favicon.png",
+              "height": 128,
+              "alt": "Dig-Ability Amazon FBA Consultant",
+              "link": "index.html",
+              "title": "Dig-Ability Amazon FBA Consultant",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://dig-ability.com",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://dig-ability.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIG-ABILITY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-n"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-favicon.png",
+              "width": 128,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "text1": "<strong>Address</strong><br><strong><br></strong>New Port Beach , CA<br><br>",
+          "text2": "<strong>Contacts</strong><br>help@dig-ability",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Amazon Arbitrage Leads</a><br>\n<a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-o"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 DIG-ABILITY",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-p"
         }
       ]
     }
