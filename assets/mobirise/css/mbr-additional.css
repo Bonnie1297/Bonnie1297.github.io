@@ -622,3 +622,7 @@ section.form .container {
 #menu-n .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-n .mbr-section-title,
+#header3-n .mbr-section-subtitle {
+  text-align: center;
+}
