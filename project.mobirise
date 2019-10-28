@@ -525,7 +525,8 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b"
+              "color": "#28262b",
+              "font-size": "36px"
             },
             ".mbr-section-text": {
               "color": "#565656"
