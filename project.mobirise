@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Site-10-05_1419",
-    "currentPage": "small-business-opportunities-2019.html",
+    "currentPage": "Amazon-FBA-Course-Reality.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
-        "successColor": "#2969b0",
+        "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 28,
+    "uniqCompNum": 23,
     "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": "",
@@ -536,12 +536,12 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": 50,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+            "imageSize": "32",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
