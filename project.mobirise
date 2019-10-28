@@ -581,6 +581,40 @@
           "_anchor": "header6-q"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Amazon FBA Private Label Course&nbsp;",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "Amazon FBA Course is no doubt a great way to learn things from the starting, these FBA trainings give you immense knowledge but this education is not sufficient to start a practical business of amazon FBA. Although these FBA course covers every aspect of private label product launch but they don’t teach the ground reality associated with these courses. We checked more than 10 FBA Courses available in the market to test them .To our surprise everyone was talking about the same strategies for product research , sourcing etc , which sounds easy to do but they won’t give results&nbsp;",
+          "text2": "Nobody was talking about the correct strategy of trademark required for a private label amazon launch. And even nobody was talking about break-even ACOS &amp; targeted ACOS with respect to the profitability and replenishment of the inventory. There are many aspects for which these courses are misguiding or not covering these topics at all, even many course share wrong information about Amazon PPC campaigns and its impact over ACOS , ROI. Hence we decided to start our own service that not only helps you to learn the secret techniques of Amazon Private Label launch strategy but also provide end to end launch and execution of it. This service is operated by most advanced technology of Artificial Intelligence AI. Schedule a free call to get insights &amp; get booster tips to get you started now.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-o"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": false,
@@ -798,40 +832,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-p"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Amazon FBA Private Label Course&nbsp;",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-n"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "Amazon FBA Course is no doubt a great way to learn things from the starting, these FBA trainings give you immense knowledge but this education is not sufficient to start a practical business of amazon FBA. Although these FBA course covers every aspect of private label product launch but they don’t teach the ground reality associated with these courses. We checked more than 10 FBA Courses available in the market to test them .To our surprise everyone was talking about the same strategies for product research , sourcing etc , which sounds easy to do but they won’t give results&nbsp;",
-          "text2": "Nobody was talking about the correct strategy of trademark required for a private label amazon launch. And even nobody was talking about break-even ACOS &amp; targeted ACOS with respect to the profitability and replenishment of the inventory. There are many aspects for which these courses are misguiding or not covering these topics at all, even many course share wrong information about Amazon PPC campaigns and its impact over ACOS , ROI. Hence we decided to start our own service that not only helps you to learn the secret techniques of Amazon Private Label launch strategy but also provide end to end launch and execution of it. This service is operated by most advanced technology of Artificial Intelligence AI. Schedule a free call to get insights &amp; get booster tips to get you started now.&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-o"
         }
       ]
     }
