@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Site-10-05_1419",
-    "currentPage": "index.html",
+    "currentPage": "Amazon-FBA-Course-Reality.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#41a85f",
+        "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
-        "successColor": "#2b0680",
+        "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
@@ -24,14 +24,13 @@
         "#f4dbdb",
         "#f2f2f2",
         "#3b3b3b",
-        "#2e2e2e",
-        "#52b3e7"
+        "#2e2e2e"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 23,
+    "uniqCompNum": 27,
     "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": "",
@@ -169,7 +168,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#41a85f!important"
+              "color": "#c0a375!important"
             }
           },
           "_params": {
@@ -518,29 +517,28 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Amazon FBA Course",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
-          "_inherit": "header2",
+          "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b",
+              "color": "#000",
               "font-size": "36px"
             },
-            ".mbr-section-text": {
-              "color": "#565656"
+            ".mbr-section-lead": {
+              "color": "#2b0680"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
             "showArrow": true,
-            "imageSize": "32",
+            "contentAlign": "left",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -548,39 +546,18 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#ccc",
-            "overlayOpacity": "0.9"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
           "title": "IS AN AMZON FBA COURSE WORTH YOUR MONEY &amp; TIME?",
           "text": "With Kevin Jackson from Dig-Ability explore the fundamentals of this course &amp; get to know the power of practical experience.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">FREE CONSULTATION</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">SCHEDULE FREE CONSULTATION</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header6",
-          "_anchor": "header6-q"
+          "_name": "header5",
+          "_anchor": "header5-q"
         },
         {
           "_styles": {
@@ -730,7 +707,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#41a85f!important"
+              "color": "#c0a375!important"
             }
           },
           "_params": {
@@ -841,7 +818,7 @@
       "settings": {
         "meta_descr": "Here is the quick list that you can start tomorrow",
         "title": "Small Business Opportunities Ideas 2019",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1059,7 +1036,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#41a85f!important"
             }
           },
           "_params": {
