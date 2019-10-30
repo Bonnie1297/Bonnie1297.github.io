@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-05_1419",
-    "currentPage": "Amazon-FBA-Course-Reality.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -37,7 +37,8 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-150381186-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-150381186-1');\r\n</script>\r\n",
     "siteUrl": "http://www.dig-ability.com",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -79,7 +80,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "DIG-ABILITY",
+          "title": "DIG-ABILITY<br>",
           "text": "BUILD THE DIGITAL ABILITY TO START OR SCALE AMAZON FBA BUSINESS",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box8-7\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">FREE&nbsp;CONSULTATION</a>",
           "_tags": [
@@ -140,10 +141,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -179,7 +180,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#3b3b3b",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -244,14 +245,14 @@
               "src": "@PROJECT_PATH@/assets/images/videosoon-1280x720.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=Bey4XXJAqS8",
+              "src": "https://www.youtube.com/watch?v=YaFoGoQcQiM",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": "on"
+              "loop": "on",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
@@ -718,7 +719,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#3b3b3b",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1047,7 +1048,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#3b3b3b",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
