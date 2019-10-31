@@ -551,14 +551,18 @@ section.form .container {
 }
 #header5-q .mbr-section-title {
   color: #000;
-  font-size: 36px;
+  font-size: 30px;
 }
 #header5-q .mbr-section-lead {
   color: #2b0680;
+  font-size: 21px;
 }
 #header3-n .mbr-section-title,
 #header3-n .mbr-section-subtitle {
   text-align: center;
+}
+#header3-n .mbr-section-title {
+  font-size: 36px;
 }
 #header5-u .mbr-section-title {
   color: #000;
@@ -584,11 +588,11 @@ section.form .container {
   color: #ffffff;
 }
 #menu-n .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-n .dropdown-item,
 #menu-n .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-n .link:hover,
 #menu-n .dropdown-item:hover,

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-05_1419",
-    "currentPage": "index.html",
+    "currentPage": "Amazon-FBA-Course-Reality.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -245,14 +245,14 @@
               "src": "@PROJECT_PATH@/assets/images/videosoon-1280x720.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=YaFoGoQcQiM",
+              "src": "https://www.youtube.com/watch?v=Bey4XXJAqS8",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": "on",
-              "active": true
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
@@ -526,10 +526,11 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#000",
-              "font-size": "36px"
+              "font-size": "30px"
             },
             ".mbr-section-lead": {
-              "color": "#2b0680"
+              "color": "#2b0680",
+              "font-size": "21px"
             }
           },
           "_params": {
@@ -564,11 +565,14 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -582,7 +586,7 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -680,10 +684,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
