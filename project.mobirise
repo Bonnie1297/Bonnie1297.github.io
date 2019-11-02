@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": "",
@@ -82,7 +82,7 @@
           },
           "title": "DIG-ABILITY<br>",
           "text": "BUILD THE DIGITAL ABILITY TO START OR SCALE AMAZON FBA BUSINESS",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box8-7\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">FREE&nbsp;CONSULTATION</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box8-7\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">FREE CONSULTATION</a>",
           "_tags": [
             "Theme"
           ],
@@ -526,11 +526,11 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#000",
-              "font-size": "30px"
+              "font-size": "60px"
             },
             ".mbr-section-lead": {
               "color": "#2b0680",
-              "font-size": "21px"
+              "font-size": "22px"
             }
           },
           "_params": {
@@ -552,14 +552,44 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "IS AN AMZON FBA COURSE WORTH YOUR MONEY &amp; TIME?",
+          "title": "Learn Amazon FBA - The Practical Way<br>",
           "text": "With Kevin Jackson from Dig-Ability explore the fundamentals of this course &amp; get to know the power of practical experience.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">SCHEDULE FREE CONSULTATION</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">BOOK SLOT</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header5",
           "_anchor": "header5-q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ZERO to $30K FAST",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">BOOK SLOT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-t"
         },
         {
           "_styles": {
@@ -597,36 +627,6 @@
           ],
           "_name": "content6",
           "_anchor": "content6-o"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f7da64",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ZERO to $30K FAST",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">FREE CALL</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-t"
         },
         {
           "_inherit": "header1",
