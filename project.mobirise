@@ -538,7 +538,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "showArrow": true,
             "imageSize": "64",
             "bgImageRadio": false,
