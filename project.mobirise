@@ -6,16 +6,16 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
+        "warningColor": "#8f815a",
         "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "titleFont": "Ubuntu",
+        "subtitleFont": "Montserrat",
+        "textFont": "Montserrat",
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
@@ -24,13 +24,16 @@
         "#f4dbdb",
         "#f2f2f2",
         "#3b3b3b",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#0b0b0b",
+        "#1b1b1b",
+        "#8f815a"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 28,
+    "uniqCompNum": 32,
     "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": "",
@@ -55,7 +58,8 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000"
+              "color": "#000",
+              "font-size": "72px"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -82,7 +86,7 @@
           },
           "title": "DIG-ABILITY<br>",
           "text": "BUILD THE DIGITAL ABILITY TO START OR SCALE AMAZON FBA BUSINESS",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box8-7\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">FREE CONSULTATION</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box8-7\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">FREE CONSULTATION</a>",
           "_tags": [
             "Theme"
           ],
@@ -129,7 +133,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "12px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -141,10 +148,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -169,7 +176,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "10px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_params": {
@@ -180,7 +192,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#3b3b3b",
-            "fontSize": "0.6",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -245,14 +257,14 @@
               "src": "@PROJECT_PATH@/assets/images/videosoon-1280x720.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=Bey4XXJAqS8",
+              "src": "https://youtu.be/YaFoGoQcQiM",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": "on"
+              "loop": "on",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
@@ -330,7 +342,7 @@
           },
           "title": "AMAZON ARBITRAGE&nbsp;",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
           "_tags": [
             "Theme"
           ],
@@ -368,7 +380,7 @@
           },
           "title": "AMAZON DROPSHIP",
           "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
           "_tags": [
             "Theme"
           ],
@@ -406,7 +418,7 @@
           },
           "title": "AMAZON WHOLESALE&nbsp;",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
           "_tags": [
             "Theme"
           ],
@@ -444,7 +456,7 @@
           },
           "title": "AMAZON PRIVATE LABEL",
           "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://amazon.com\" data-toolbar=\"-mbrBtnMove\">coming soon</a>",
           "_tags": [
             "Theme"
           ],
@@ -484,8 +496,8 @@
             }
           },
           "text1": "<strong>Address</strong><br><strong><br></strong>New Port Beach , CA<br><br>",
-          "text2": "<strong>Contacts</strong><br>help@dig-ability",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon FBA Course Reality </a><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
+          "text2": "<strong>Contacts</strong><br>help @ dig-ability.com",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon FBA Course&nbsp;</a><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label Product Research&nbsp;</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
           "_tags": [
             "Theme"
           ],
@@ -516,17 +528,74 @@
     },
     "Amazon-FBA-Course-Reality.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "Unique Amazon FBA Course with Gaurnteed Service Delivery 2019",
         "title": "Amazon FBA Course",
         "order": 2
       },
       "components": [
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "64",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3b3b3b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/YaFoGoQcQiM",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "UNIQUE FBA COURSE TO MAKE $300k A MONTH",
+          "text": "This isn't simply a course. Rather it's a full fledge one-on-one personalized service to get you start with an assurance.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK SLOT NOW</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-s",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          }
+        },
+        {
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
               "color": "#000",
-              "font-size": "60px"
+              "font-size": "48px"
             },
             ".mbr-section-lead": {
               "color": "#2b0680",
@@ -552,9 +621,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Learn Amazon FBA - The Practical Way<br>",
+          "title": "Learn Amazon FBA The Practical Way<br>",
           "text": "With Kevin Jackson from Dig-Ability explore the fundamentals of this course &amp; get to know the power of practical experience.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">BOOK SLOT</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">BOOK SLOT</a>",
           "_tags": [
             "Theme"
           ],
@@ -620,8 +689,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "Amazon FBA Course is no doubt a great way to learn things from the starting, these FBA trainings give you immense knowledge but this education is not sufficient to start a practical business of amazon FBA. Although these FBA course covers every aspect of private label product launch but they don’t teach the ground reality associated with these courses. We checked more than 10 FBA Courses available in the market to test them .To our surprise everyone was talking about the same strategies for product research , sourcing etc , which sounds easy to do but they won’t give results&nbsp;",
-          "text2": "Nobody was talking about the correct strategy of trademark required for a private label amazon launch. And even nobody was talking about break-even ACOS &amp; targeted ACOS with respect to the profitability and replenishment of the inventory. There are many aspects for which these courses are misguiding or not covering these topics at all, even many course share wrong information about Amazon PPC campaigns and its impact over ACOS , ROI. Hence we decided to start our own service that not only helps you to learn the secret techniques of Amazon Private Label launch strategy but also provide end to end launch and execution of it. This service is operated by most advanced technology of Artificial Intelligence AI. Schedule a free call to get insights &amp; get booster tips to get you started now.&nbsp;",
+          "text1": "<p>Amazon FBA Course is no doubt a great way to learn things from the starting, these FBA trainings give you immense knowledge but this education is not sufficient to start a practical business of amazon FBA. Although these FBA course covers every aspect of private label product launch but they don’t teach the ground reality associated with FBA Business. </p><p><br></p><p>We checked more than 10 FBA Courses available in the market to test them .To our surprise everyone was talking about the same strategies for product research , sourcing &nbsp; etc, which sounds easy to do but they won’t give results.</p><p><br></p><p><br></p>",
+          "text2": "<p>Nobody was talking about the correct strategy of trademark required for a private label amazon launch. And even nobody was talking about break-even ACOS &amp; targeted ACOS with respect to the profitability and replenishment of the inventory. There are many aspects for which these courses are misguiding or not covering these topics at all, even many course share wrong information about Amazon PPC campaigns and its impact over ACOS , ROI. </p><p><br></p><p>Hence we decided to start our own service that not only helps you to learn the secret techniques of Amazon Private Label launch strategy but also provide end to end launch and execution of it. This service is operated by most advanced technology of Artificial Intelligence AI. Schedule a free call to get insights &amp; get booster tips to get you started now.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -659,12 +728,12 @@
           },
           "title": "DIG-ABILITY",
           "text": "BUILD THE DIGITAL ABILITY TO START OR SCALE AMAZON FBA BUSINESS",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">SCHEEUDLE FREE CALL</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box8-7\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\" data-toolbar=\"-mbrBtnMove\">SCHEEUDLE FREE CALL</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header5",
-          "_anchor": "header5-u"
+          "_anchor": "header5-v"
         },
         {
           "_styles": {
@@ -672,7 +741,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "12px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -684,10 +756,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -712,7 +784,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "10px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_params": {
@@ -723,7 +800,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#3b3b3b",
-            "fontSize": "0.6",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -789,8 +866,8 @@
             }
           },
           "text1": "<strong>Address</strong><br><strong><br></strong>New Port Beach , CA<br><br>",
-          "text2": "<strong>Contacts</strong><br>help@dig-ability",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon FBA Course Reality </a><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
+          "text2": "<strong>Contacts</strong><br>help @ dig-ability.com",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon FBA Course&nbsp;</a><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label Product Research&nbsp;</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
           "_tags": [
             "Theme"
           ],
@@ -1001,7 +1078,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "12px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1013,10 +1093,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1041,7 +1121,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#41a85f!important"
+              "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "10px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_params": {
@@ -1052,7 +1137,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#3b3b3b",
-            "fontSize": "0.6",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1118,8 +1203,8 @@
             }
           },
           "text1": "<strong>Address</strong><br><strong><br></strong>New Port Beach , CA<br><br>",
-          "text2": "<strong>Contacts</strong><br>help@dig-ability",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon FBA Course Reality </a><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
+          "text2": "<strong>Contacts</strong><br>help @ dig-ability.com",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon FBA Course&nbsp;</a><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label Product Research&nbsp;</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
           "_tags": [
             "Theme"
           ],
