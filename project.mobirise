@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#2969b0",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -15,19 +15,19 @@
         "titleFont": "Ubuntu",
         "subtitleFont": "Montserrat",
         "textFont": "Montserrat",
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
       },
       "additionalSetColors": [
+        "#f9ea07",
         "#f4dbdb",
         "#f2f2f2",
         "#3b3b3b",
         "#2e2e2e",
         "#0b0b0b",
-        "#1b1b1b",
-        "#8f815a"
+        "#1b1b1b"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -176,7 +176,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#2969b0!important"
             },
             "A": {
               "font-size": "10px",
@@ -572,9 +572,9 @@
               "size": 250
             }
           },
-          "title": "UNIQUE FBA COURSE TO MAKE $300k A MONTH",
-          "text": "This isn't simply a course. Rather it's a full fledge one-on-one personalized service to get you start with an assurance.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://bit.ly/FBACoursePage\" data-toolbar=\"-mbrBtnMove\">BOOK SLOT NOW</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "title": "Want to Achieve Financial Freedom?",
+          "text": "How to start with low investments&nbsp;<br>How do you actually manage<br>What you need to get started",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://bit.ly/FBACoursePage\" data-toolbar=\"-mbrBtnMove\">BOOK FREE DISCOVERY CALL</a> ",
           "_tags": [
             "Theme"
           ],
@@ -582,11 +582,14 @@
           "_anchor": "header2-s",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#ffffff"
             },
             ".btn": {
-              "font-size": "11px"
+              "font-size": "17px"
+            },
+            ".mbr-section-text": {
+              "text-align": "right"
             }
           }
         },
@@ -784,7 +787,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#2969b0!important"
             },
             "A": {
               "font-size": "10px",
