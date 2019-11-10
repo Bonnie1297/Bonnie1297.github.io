@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#d4fc09",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#d4fc09",
         "#f4dbdb",
         "#f2f2f2",
         "#3b3b3b",
         "#2e2e2e",
         "#0b0b0b",
-        "#1b1b1b",
-        "#8f815a"
+        "#1b1b1b"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -572,9 +572,9 @@
               "size": 250
             }
           },
-          "title": "UNIQUE FBA COURSE TO MAKE $300k A MONTH",
-          "text": "This isn't simply a course. Rather it's a full fledge one-on-one personalized service to get you start with an assurance.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://bit.ly/FBACoursePage\" data-toolbar=\"-mbrBtnMove\">GET FREE CONSULTATION</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "<span style=\"font-weight: normal;\">LIVE DEMO:</span><br><span style=\"font-weight: normal;\">THE ULTIMATE GUIDE TO </span>MAKE MONEY FROM AMAZON FBA&nbsp;",
+          "text": "Going Live At 1:00PM PST",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://bit.ly/FBACoursePage\" data-toolbar=\"-mbrBtnMove\">GET LIVE DEMO INVITATION</a> ",
           "_tags": [
             "Theme"
           ],
@@ -582,11 +582,15 @@
           "_anchor": "header2-s",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "46px",
-              "color": "#ffffff"
+              "font-size": "36px",
+              "color": "#d4fc09"
             },
             ".btn": {
-              "font-size": "11px"
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           }
         },
