@@ -586,7 +586,7 @@
               "color": "#d4fc09"
             },
             ".btn": {
-              "font-size": "20px"
+              "font-size": "32px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'PT Sans', sans-serif",
