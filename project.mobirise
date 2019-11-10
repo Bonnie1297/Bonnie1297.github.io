@@ -574,7 +574,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">LIVE DEMO:</span><br><span style=\"font-weight: normal;\">THE ULTIMATE GUIDE TO </span>MAKE MONEY FROM AMAZON FBA&nbsp;",
           "text": "Going Live At 1:00PM PST TOMORROW",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://bit.ly/FBACoursePage\" data-toolbar=\"-mbrBtnMove\">GET LIVE DEMO INVITATION</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://bit.ly/FBACoursePage\" data-toolbar=\"-mbrBtnMove\">GET LIVE DEMO INVITATION</a> ",
           "_tags": [
             "Theme"
           ],
@@ -626,13 +626,43 @@
             "overlayOpacity": 0.5
           },
           "title": "One-on-One Personalized Launch<br>",
-          "text": "With Kevin Jackson from Dig-Ability learn &amp; launch amazon fba private label product research methodologies &nbsp;",
+          "text": "With Kevin Jackson from Dig-Ability explore the fundamentals of this course &amp; get to know the power of practical experience.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://bit.ly/FBACoursePage\" data-toolbar=\"-mbrBtnMove\">BOOK SLOT</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header5",
           "_anchor": "header5-q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ZERO to $30K FAST",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.ly/FBACoursePage\" data-toolbar=\"-mbrBtnMove\">BOOK SLOT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-t"
         },
         {
           "_styles": {
@@ -708,36 +738,6 @@
           ],
           "_name": "header5",
           "_anchor": "header5-v"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ZERO to $30K FAST",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://bit.ly/FBACoursePage\" data-toolbar=\"-mbrBtnMove\">BOOK SLOT</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-t"
         },
         {
           "_styles": {
