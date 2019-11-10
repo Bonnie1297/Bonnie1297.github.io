@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Site-10-05_1419",
-    "currentPage": "index.html",
+    "currentPage": "Amazon-FBA-Course-Reality.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#d4fc09",
         "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
+        "successColor": "#f3c649",
         "infoColor": "#7e9b9f",
         "warningColor": "#8f815a",
         "dangerColor": "#f28281",
@@ -788,7 +788,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#d4fc09!important"
             },
             "A": {
               "font-size": "10px",
