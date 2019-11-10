@@ -537,7 +537,7 @@ section.form .container {
 }
 #menu-2 .link[aria-expanded="true"],
 #menu-2 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
+  color: #d4fc09!important;
 }
 #menu-2 A {
   font-size: 10px;
