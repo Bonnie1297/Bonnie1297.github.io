@@ -616,7 +616,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#d4fc09",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -625,8 +625,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Learn Amazon FBA The Practical Way<br>",
-          "text": "With Kevin Jackson from Dig-Ability explore the fundamentals of this course &amp; get to know the power of practical experience.",
+          "title": "One-on-One Personalized Launch<br>",
+          "text": "With Kevin Jackson from Dig-Ability learn &amp; launch amazon fba private label product research methodologies &nbsp;",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://bit.ly/FBACoursePage\" data-toolbar=\"-mbrBtnMove\">BOOK SLOT</a>",
           "_tags": [
             "Theme"
@@ -646,7 +646,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f7da64",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
