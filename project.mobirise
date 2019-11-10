@@ -573,7 +573,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">LIVE DEMO:</span><br><span style=\"font-weight: normal;\">THE ULTIMATE GUIDE TO </span>MAKE MONEY FROM AMAZON FBA&nbsp;",
-          "text": "Going Live At 1:00PM PST TOMORROW",
+          "text": "Invitation closing soon&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://bit.ly/FBACoursePage\" data-toolbar=\"-mbrBtnMove\">GET LIVE DEMO INVITATION</a> ",
           "_tags": [
             "Theme"
@@ -586,11 +586,14 @@
               "color": "#d4fc09"
             },
             ".btn": {
-              "font-size": "32px"
+              "font-size": "23px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".mbr-section-text": {
+              "text-align": "center"
             }
           }
         },
