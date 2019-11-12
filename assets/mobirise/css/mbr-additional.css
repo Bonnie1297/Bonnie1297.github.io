@@ -465,6 +465,13 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
+#slider-10 P {
+  color: #d4fc09;
+  font-size: 30px;
+}
+#slider-10 H2 {
+  font-size: 60px;
+}
 #header5-1 .mbr-section-title {
   color: #000;
   font-size: 72px;
