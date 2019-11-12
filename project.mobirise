@@ -62,7 +62,7 @@
             "paddingBottom": "4",
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": "4",
+            "timeout": "5",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/man-back.jpg",
