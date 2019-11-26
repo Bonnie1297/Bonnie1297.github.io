@@ -226,62 +226,6 @@
           "_anchor": "menu-2"
         },
         {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/Bey4XXJAqS8?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=Bey4XXJAqS8",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": false,
-            "overlayColor": "#90a878",
-            "overlayOpacity": "0"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/videosoon-1280x720.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=X5erVv2Tr9M&t",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "HOW I STARTED",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-4"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showText": false,
@@ -497,7 +441,7 @@
           },
           "text1": "<strong>Address</strong><br><strong><br></strong>New Port Beach , CA<br><br>",
           "text2": "<strong>Contacts</strong><br>help @ dig-ability.com",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon FBA Course&nbsp;</a><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label Product Research&nbsp;</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label Product Research&nbsp;</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
           "_tags": [
             "Theme"
           ],
@@ -874,7 +818,7 @@
           },
           "text1": "<strong>Address</strong><br><strong><br></strong>New Port Beach , CA<br><br>",
           "text2": "<strong>Contacts</strong><br>help @ dig-ability.com",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon FBA Course&nbsp;</a><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label Product Research&nbsp;</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label Product Research&nbsp;</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
           "_tags": [
             "Theme"
           ],
@@ -1211,7 +1155,7 @@
           },
           "text1": "<strong>Address</strong><br><strong><br></strong>New Port Beach , CA<br><br>",
           "text2": "<strong>Contacts</strong><br>help @ dig-ability.com",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon FBA Course&nbsp;</a><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label Product Research&nbsp;</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"Amazon-FBA-Course-Reality.html\">Amazon Arbitrage Leads</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Dropship Automation </a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Private Label Product Research&nbsp;</a><br><a class=\"text-primary\" href=\"https://calendly.com/bfhfsf/zero-to-30k-fast-strategy-15-min-free-call\">Zero to $30k Fast</a>",
           "_tags": [
             "Theme"
           ],
